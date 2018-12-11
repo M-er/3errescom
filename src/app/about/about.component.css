@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+section{
+  padding: 60px 0;
+}
+section .section-title{
+  text-align:center;
+  color:orange;
+  margin-bottom:50px;
+  text-transform:uppercase;
+
+}
+.bgimg{
+  background-image: url('../../assets/img/company.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-style: none;
+}
+.jumbotron{margin-bottom: 0;}
